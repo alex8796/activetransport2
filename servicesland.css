@@ -71,17 +71,7 @@ li:hover{
     height: 400px;
     width: 100%;
 }
-#title{
-	position:relative;
-	margin:auto;
-	text-align:center;
-	width:100%;
-	color:#000;
-	font-size:30px;
-	font-family: 'Abril Fatface', cursive;
-	-webkit-text-stroke: .3px #384A66;
-	}
-	
+
 .button{
 	position:absolute;
 	width:113px;
@@ -187,7 +177,7 @@ li:hover{
 	
 #but4{
 	left:75px;
-	top:180px;
+	top:220px;
 	}
 	
 #ES{
@@ -211,7 +201,7 @@ li:hover{
 
 #but5{
 	left:205px;
-	top:180px;
+	top:220px;
 	}
 	
 #G{
