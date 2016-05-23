@@ -557,3 +557,15 @@ font-family: 'Philosopher', sans-serif;
     margin-left: -225px;
 	cursor:pointer;
 }
+
+#img-cover {
+    position: fixed;
+	background:black;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:100%;
+    opacity:.9;
+	z-index:9999;
+	cursor:pointer;
+}
