@@ -1,0 +1,323 @@
+@media only screen and (min-width:640px) and (max-width: 785px) {
+body{
+	margin:0px;
+	background-color:--- black;
+}
+
+img{
+	width: 100%;
+	height:100%;
+	}
+
+#banner{
+	position: fixed;
+	width:100%;
+	height:40px;
+	background: #253F66;
+	}
+
+nav{
+	position:relative;
+	left:-23px;
+	margin-top:-14px;
+	text-align:left;
+	width:728px;
+	height:40px;
+	background:--- red;
+	}
+
+li{
+	display:inline;
+	font-size:34px;
+	padding:3px;
+	color:#f1f6ec;
+	font-family: 'Philosopher', sans-serif;
+	}
+
+a{
+	text-decoration:none;
+	color:#f1f6ec;
+	}
+#midcontent a{
+	color: blue;
+	text-decoration: underline;
+}
+
+li:hover{
+	text-shadow:0px 0px 0px #3c5523;
+	}
+
+.H:active{
+	text-shadow: 0px 0px 20px #3c5523;
+	}
+	
+#mainpic{
+	position:relative;
+	margin:auto;
+	width:100%;
+	}
+
+#midcontent{
+	position:relative;
+	margin-left: 10px;
+	width:720px;
+	height:200px;
+	border-radius:5px;
+	background: ---red;
+	}
+
+#title{
+	position:relative;
+    margin-left: 5px;
+	text-align:left;
+	width:370px;
+	color:#000;
+	font-size:25.5px;
+	font-family: 'Abril Fatface', cursive;
+	-webkit-text-stroke: .3px #253F66;
+	}
+	#title2{
+	position:relative;
+	margin:auto;
+	display: none;
+	text-align:center;
+	width:370px;
+	color:#000;
+	font-size:28px;
+	font-family: 'Abril Fatface', cursive;
+	-webkit-text-stroke: .3px #253F66;
+	}
+#title3{
+	position:relative;
+	margin-left: 380px;
+	margin-top: -44px;
+	display: block;
+	text-align:center;
+	width:370px;
+	color:#000;
+	font-size:18px;
+	font-family: 'Abril Fatface', cursive;
+	-webkit-text-stroke: .3px #253F66;
+	}
+#serv1{
+	position:absolute;
+	top:5%;
+	left:22px;
+	background:#7EA7E5;
+	border-radius:100%;
+	width:113px;
+	height:113px;
+	}
+	
+#serv1:hover{
+	box-shadow:0px 0px 0px #000;
+	}
+	
+.sdd{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.4em;
+padding-top: 8.5%;
+	}
+	
+#serv2{
+	position:absolute;
+	top:5%;
+	left:169px;
+	background:#7EA7E5;
+	border-radius:100%;
+	width:113px;
+	height:113px;
+	}
+	
+#serv2:hover{
+	box-shadow:0px 0px 0px #000;
+	}
+	
+.cs{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.4em;
+	padding-top: 8.5%;
+	}	
+	
+#serv3{
+	position:absolute;
+	top:5%;
+	left:315px;
+	background:#7EA7E5;
+	border-radius:100%;
+	width:113px;
+	height:113px;
+	}
+	
+#serv3:hover{
+	box-shadow:0px 0px 0px #000;
+	}
+
+	#serv4{
+	position:absolute;
+	top:6%;
+	left:615px;
+	background:#7EA7E5;
+	border-radius:100%;
+	width:113px;
+	height:113px;
+	}
+	
+#serv4:hover{
+	box-shadow:0px 0px 0px #000;
+	}
+	
+.vt{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.4em;
+	padding-top: 8.5%;
+	}	
+
+	.c4{
+    left: 0;
+    right: 0;
+    top: 10px;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.4em;
+	padding-top: 8.5%;
+	}
+
+	#serv5{
+	position:absolute;
+	top:6%;
+	left:465px;
+	background:#7EA7E5;
+	border-radius:100%;
+	width:113px;
+	height:113px;
+	}
+	
+#serv5:hover{
+	box-shadow:0px 0px 0px #000;
+	}
+		.c5{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.4em;
+	padding-top: 8.5%;
+	}
+
+#bcontent{
+	position:relative;
+	width:370px;
+	height:700px;
+	margin-left: 6px;
+	margin-top: -400px;
+	
+	}	
+	
+#tbox{
+	position:absolute;
+	width:370px;
+	height:410px;
+	top: 270px;
+	}
+	
+#info{
+	position:absolute;
+	top:150px;
+	width:370px;
+	height:250px;
+	color:#000;
+	font-size:20px;
+	padding-top:50px;
+	text-align:left;
+	font-family: 'Philosopher', sans-serif;
+	}
+	
+#map{
+	position:absolute;
+	top:25px;
+	display:none;
+	}
+	
+#mobilemap{
+	position:absolute;
+	top:-50px;
+	display:none;
+	left:5px;
+}
+
+#bbox{
+	position:absolute;
+	width:370px;
+	top:65%;
+	left:380px;
+	height:300px;
+	}
+	
+.description{
+	position:absolute;
+	left:0;
+	color:#253F66;
+	font-family: 'Philosopher', sans-serif;
+	font-size:20px;
+	width:370px;
+	height:300px;
+	text-align:center;
+	}
+	
+#fragile{
+	position:absolute;
+	top:150px;
+	right:110px;
+	width:150px;
+	height:auto;
+	border-radius:100%;
+	border: 1px solid black;
+	}
+	
+	
+	
+#footer{
+	position:relative;
+	top:110px;
+	width:100%;
+	background:#253F66;
+	}
+
+#foot{
+    color: #f1f6ec;
+    text-align: center;
+    position: relative;
+    bottom: -15px;
+    left: 0px;
+    /* right: 120px; */
+    font-family: 'Philosopher', sans-serif;
+}
+
+#cardContainer{
+	top: 110px;	
+	height: 70px;
+}
+	
+#cardContainer p {
+    font-size:20px;
+	font-family: 'Philosopher', sans-serif;
+}
